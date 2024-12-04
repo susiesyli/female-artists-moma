@@ -2,7 +2,7 @@
 3d visualization of female artists in MoMA's permanent collection, 1929-2024 
 
 ## process 
-[Click me](https://medium.com/@susiesyli/process-documentation-poetic-data-final-pro30) for a detailed write-up on the design and creation process; or see below for the tldr workflow: 
+[Click me](https://susiesyli.medium.com/2f51ed0de230) for a detailed write-up on the design and creation process; or see below for the tldr workflow: 
 1. Ideation (research: topic; past projects; Visual Cinnamon + Data Sketches)
 2. Data
    * Sourcing data -> CC0 databases by MoMA, the Met, the Louvre, the Whitney etc
