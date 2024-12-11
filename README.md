@@ -13,8 +13,6 @@
    * Feature engineering -> took the raw databases (artists, artworks, and exhibitions), and produces 2 databases with features used by d3 etc visualization. See [Medium](https://medium.com/@susiesyli/process-documentation-poetic-data-final-230) for more details on this part
 3. Code for sketch
   * Use d3.js/three.js/other light JS libs to sketch 2.5D(? technically 3D but available top view only) designs for mapping and encoding 
-![Example: iteration 1, raw data with coordinate encoding + d3 map projectins](https://github.com/susiesyli/female-artists-moma/blob/4e8126ab19dde0965554fed38415835c1e15e6aa/images/map-iteration.gif)
-
 
 ## 2D static visuals 
 Acquisition pattern during artists' career 
